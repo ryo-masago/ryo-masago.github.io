@@ -1,0 +1,33 @@
+.section {
+  padding-block: 5rem;
+  scroll-margin-top: 5rem;
+}
+
+.section-heading {
+  margin-bottom: 2.5rem;
+}
+
+.section-heading__eyebrow {
+  margin-bottom: 0.5rem;
+
+  color: var(--color-accent);
+
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.section-heading h2 {
+  max-width: 700px;
+}
+
+@media (min-width: 768px) {
+  .section {
+    padding-block: 7rem;
+  }
+
+  .section-heading {
+    margin-bottom: 3.5rem;
+  }
+}

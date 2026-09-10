@@ -1,0 +1,43 @@
+body {
+  background-color: var(--color-bg);
+  color: var(--color-primary);
+  transition:
+    background-color var(--transition-normal),
+    color var(--transition-normal);
+}
+
+main {
+  overflow: hidden;
+}
+
+a,
+button {
+  transition:
+    color var(--transition-fast),
+    background-color var(--transition-fast),
+    border-color var(--transition-fast),
+    opacity var(--transition-fast),
+    transform var(--transition-fast);
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 4px;
+}
+
+button {
+  border: 0;
+  cursor: pointer;
+}
+
+.container {
+  width: min(100% - 2rem, var(--container-width));
+  margin-inline: auto;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: min(100% - 4rem, var(--container-width));
+  }
+}
