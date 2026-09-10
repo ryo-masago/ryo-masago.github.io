@@ -1,0 +1,35 @@
+[
+  {
+    "category": "Languages",
+    "skills": [
+      "Ruby",
+      "JavaScript",
+      "SQL",
+      "HTML",
+      "CSS"
+    ]
+  },
+  {
+    "category": "Frameworks & Libraries",
+    "skills": [
+      "Ruby on Rails",
+      "Stimulus"
+    ]
+  },
+  {
+    "category": "Databases",
+    "skills": [
+      "PostgreSQL"
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "skills": [
+      "Git",
+      "GitHub",
+      "Heroku",
+      "Vite",
+      "SCSS"
+    ]
+  }
+]

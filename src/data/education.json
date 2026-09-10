@@ -1,0 +1,26 @@
+[
+  {
+    "institution": "Boston University",
+    "program": "Master of Science in Software Development",
+    "status": "Current",
+    "description": "Graduate studies focused on software development, computer science fundamentals, and building robust software systems."
+  },
+  {
+    "institution": "Le Wagon",
+    "program": "Web Development Bootcamp",
+    "status": "Graduate",
+    "description": "Intensive full-stack web development program covering Ruby, Ruby on Rails, JavaScript, SQL, HTML, CSS, Git, and collaborative product development."
+  },
+  {
+    "institution": "Northeastern University",
+    "program": "Bachelor of Science in Business Administration",
+    "status": "Graduate",
+    "description": "Undergraduate studies in business administration, providing a broad foundation in business strategy, management, and organizational decision-making."
+  },
+  {
+    "institution": "Aiglon College",
+    "program": "International Baccalaureate (IB) High School Diploma",
+    "status": "Graduate",
+    "description": "Completed the International Baccalaureate program in an international academic environment, developing a strong foundation in critial thinking, communication, and independent learning."
+  }
+]

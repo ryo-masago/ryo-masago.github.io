@@ -1,0 +1,24 @@
+{
+  "name": "Ryo Masago",
+  "role": "Software Developer",
+  "hero": {
+    "eyebrow": "Hello, I'm Ryo!",
+    "headline": "I build thoughtful, interactive web applications.",
+    "description": "I'm a Software Developer focused on creating clean, user-friendly web experiences with Ruby on Rails, JavaScript, SQL, HTML, CSS, and Stimulus.",
+    "primaryCta": {
+      "label": "View my work",
+      "href": "#projects"
+    },
+    "secondaryCta": {
+      "label": "About me",
+      "href": "#about"
+    }
+  },
+  "about": {
+    "heading": "About Me",
+    "paragraphs": [
+      "I'm a Software Developer who enjoys turning ideas into practical, polished web applications. I particularly enjoy building products that combine thoughtful user experience with solid full-stack development.",
+      "I graduated from Le Wagon's Web Development bootcamp and am continuing my education through Boston University's Master's degree in Software Development. I'm currently expanding my software engineering skills while building projects that allow me to apply what I learn in practice."
+    ]
+  }
+}

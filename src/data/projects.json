@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Notebook Metropolis",
+    "description": "A city-builder-inspired note-taking web application that turns categories into interactive buildings and rooms. Users can organize notes through visual hotspots and interact with AI companions that understand the notes stored in each room.",
+    "tech": [
+      "Ruby on Rails",
+      "JavaScript",
+      "Stimulus",
+      "Turbo",
+      "PostgreSQL",
+      "SCSS",
+      "AI"
+    ],
+    "featured": true,
+    "github": "https://github.com/ryo-masago",
+    "liveDemo": null,
+    "image": "/images/project-placeholder-1.svg",
+    "imageAlt": "Preview of the Notebook Metropolis project"
+  },
+  {
+    "title": "Personal Developer Portfolio",
+    "description": "A responsive personal portfolio built to showcase software development projects, technical skills, education, and professional links. The site uses a data-driven structure so content can be updated through JSON files without editing component code.",
+    "tech": [
+      "JavaScript",
+      "Vite",
+      "SCSS",
+      "HTML",
+      "Git",
+      "GitHub Pages"
+    ],
+    "featured": false,
+    "github": "https://github.com/ryo-masago/ryo-masago.github.io",
+    "liveDemo": "https://ryo-masago.github.io/",
+    "image": "/images/project-placeholder-2.svg",
+    "imageAlt": "Preview of Ryo Masago's personal developer portfolio"
+  }
+]
