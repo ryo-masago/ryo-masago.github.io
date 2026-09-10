@@ -2,12 +2,130 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <meta
+      name="description"
+      content="Ryo Masago is a software developer building thoughtful, interactive web applications."
+    />
+
+    <meta property="og:title" content="Ryo Masago | Software Developer" />
+    <meta
+      property="og:description"
+      content="Personal developer portfolio showcasing projects, technical skills, education, and experience."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/og-image.png" />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ryo-masago.github.io</title>
+
+    <title>Ryo Masago | Software Developer</title>
   </head>
+
   <body>
-    <div id="app"></div>
+    <header class="site-header">
+      <nav class="navbar" aria-label="Main navigation">
+        <a class="navbar__brand" href="#home" aria-label="Ryo Masago home">
+          RM
+        </a>
+
+        <button
+          class="navbar__menu-toggle"
+          type="button"
+          aria-label="Toggle navigation menu"
+          aria-expanded="false"
+          aria-controls="main-navigation"
+        >
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <div class="navbar__links" id="main-navigation">
+          <a href="#about" class="navbar__link">About</a>
+          <a href="#projects" class="navbar__link">Projects</a>
+          <a href="#skills" class="navbar__link">Skills</a>
+          <a href="#education" class="navbar__link">Education</a>
+          <a href="#contact" class="navbar__link">Contact</a>
+        </div>
+
+        <button
+          class="theme-toggle"
+          type="button"
+          aria-label="Switch color theme"
+        >
+          <span class="theme-toggle__icon" aria-hidden="true">☾</span>
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home" class="section hero">
+        <div class="container" id="hero-content"></div>
+      </section>
+
+      <section id="about" class="section about">
+        <div class="container" id="about-content"></div>
+      </section>
+
+      <section id="projects" class="section projects">
+        <div class="container">
+          <div class="section-heading">
+            <p class="section-heading__eyebrow">Selected work</p>
+            <h2>Projects</h2>
+          </div>
+
+          <div id="projects-grid"></div>
+        </div>
+      </section>
+
+      <section id="skills" class="section skills">
+        <div class="container">
+          <div class="section-heading">
+            <p class="section-heading__eyebrow">What I work with</p>
+            <h2>Skills</h2>
+          </div>
+
+          <div id="skills-grid"></div>
+        </div>
+      </section>
+
+      <section id="education" class="section education">
+        <div class="container">
+          <div class="section-heading">
+            <p class="section-heading__eyebrow">Background</p>
+            <h2>Education</h2>
+          </div>
+
+          <div id="education-list"></div>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact">
+        <div class="container">
+          <div class="section-heading">
+            <p class="section-heading__eyebrow">Get in touch</p>
+            <h2>Contact</h2>
+          </div>
+
+          <div id="social-links"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>
+          &copy; <span id="current-year"></span> Ryo Masago.
+          Built with JavaScript, Vite &amp; SCSS.
+        </p>
+      </div>
+    </footer>
+
     <script type="module" src="/src/main.js"></script>
   </body>
 </html>
