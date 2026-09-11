@@ -4,4 +4,9 @@
 @use "./base/typography";
 @use "./base/base";
 
+@use "./components/buttons";
+
+@use "./layout/navbar";
 @use "./layout/sections";
+
+@use "./sections/hero";
