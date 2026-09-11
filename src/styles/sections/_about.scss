@@ -1,0 +1,12 @@
+.about__content {
+  max-width: 760px;
+}
+
+.about__content p {
+  font-size: clamp(1rem, 2vw, 1.125rem);
+  line-height: 1.85;
+}
+
+.about__content p + p {
+  margin-top: 1.5rem;
+}
