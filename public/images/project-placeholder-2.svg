@@ -1,0 +1,74 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 675"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Developer portfolio placeholder</title>
+
+  <desc id="description">
+    Minimal browser-style preview representing Ryo Masago's developer portfolio.
+  </desc>
+
+  <rect width="1200" height="675" fill="#f4f4f5"/>
+
+  <rect
+    x="160"
+    y="100"
+    width="880"
+    height="475"
+    rx="16"
+    fill="#ffffff"
+    stroke="#d4d4d8"
+    stroke-width="4"
+  />
+
+  <rect
+    x="160"
+    y="100"
+    width="880"
+    height="60"
+    rx="16"
+    fill="#18181b"
+  />
+
+  <circle cx="205" cy="130" r="8" fill="#ffffff"/>
+  <circle cx="235" cy="130" r="8" fill="#71717a"/>
+  <circle cx="265" cy="130" r="8" fill="#a1a1aa"/>
+
+  <rect
+    x="230"
+    y="230"
+    width="430"
+    height="34"
+    rx="8"
+    fill="#18181b"
+  />
+
+  <rect
+    x="230"
+    y="290"
+    width="570"
+    height="18"
+    rx="6"
+    fill="#71717a"
+  />
+
+  <rect
+    x="230"
+    y="325"
+    width="480"
+    height="18"
+    rx="6"
+    fill="#a1a1aa"
+  />
+
+  <rect
+    x="230"
+    y="390"
+    width="150"
+    height="48"
+    rx="8"
+    fill="#18181b"
+  />
+</svg>

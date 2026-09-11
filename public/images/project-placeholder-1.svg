@@ -1,0 +1,71 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 675"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Notebook Metropolis placeholder</title>
+
+  <desc id="description">
+    Minimal abstract city blocks representing Notebook Metropolis.
+  </desc>
+
+  <rect width="1200" height="675" fill="#f4f4f5"/>
+
+  <rect
+    x="190"
+    y="310"
+    width="210"
+    height="220"
+    rx="12"
+    fill="#18181b"
+  />
+
+  <rect
+    x="455"
+    y="210"
+    width="290"
+    height="320"
+    rx="12"
+    fill="#3f3f46"
+  />
+
+  <rect
+    x="800"
+    y="350"
+    width="200"
+    height="180"
+    rx="12"
+    fill="#71717a"
+  />
+
+  <circle cx="270" cy="375" r="18" fill="#f4f4f5"/>
+  <circle cx="335" cy="375" r="18" fill="#f4f4f5"/>
+
+  <circle cx="525" cy="290" r="18" fill="#f4f4f5"/>
+  <circle cx="600" cy="290" r="18" fill="#f4f4f5"/>
+  <circle cx="675" cy="290" r="18" fill="#f4f4f5"/>
+
+  <text
+    x="600"
+    y="110"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="44"
+    font-weight="700"
+    fill="#18181b"
+  >
+    Notebook Metropolis
+  </text>
+
+  <text
+    x="600"
+    y="160"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    fill="#71717a"
+  >
+    Project preview
+  </text>
+</svg>

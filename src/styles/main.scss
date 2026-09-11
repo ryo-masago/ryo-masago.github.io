@@ -5,8 +5,11 @@
 @use "./base/base";
 
 @use "./components/buttons";
+@use "./components/project-card";
+@use "./components/skill-tag";
 
 @use "./layout/navbar";
 @use "./layout/sections";
 
 @use "./sections/hero";
+@use "./sections/projects";
