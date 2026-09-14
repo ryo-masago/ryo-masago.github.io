@@ -12,9 +12,9 @@
       "AI"
     ],
     "featured": true,
-    "github": "https://github.com/ryo-masago",
+    "github": "https://github.com/ryo-masago/notebook-metropolis",
     "liveDemo": null,
-    "image": "/images/project-placeholder-1.svg",
+    "image": "/images/notebook-metropolis.png",
     "imageAlt": "Preview of the Notebook Metropolis project"
   },
   {
@@ -31,7 +31,7 @@
     "featured": false,
     "github": "https://github.com/ryo-masago/ryo-masago.github.io",
     "liveDemo": "https://ryo-masago.github.io/",
-    "image": "/images/project-placeholder-2.svg",
+    "image": "/images/developer-portfolio.png",
     "imageAlt": "Preview of Ryo Masago's personal developer portfolio"
   }
 ]
