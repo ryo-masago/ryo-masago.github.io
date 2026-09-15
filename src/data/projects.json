@@ -18,6 +18,23 @@
     "imageAlt": "Preview of the Notebook Metropolis project"
   },
   {
+    "title": "AI Tutor Assistant",
+    "description": "An AI-powered learning platform designed to make complex topics easier to understand through personalized tutoring. Users can explore subjects with different AI tutor personalities, generate study materials and quizzes, receive feedback on their answers, and identify what to study next.",
+    "tech": [
+      "Ruby on Rails",
+      "JavaScript",
+      "Stimulus",
+      "PostgreSQL",
+      "SCSS",
+      "AI / LLM"
+    ],
+    "featured": false,
+    "github": "https://github.com/ryo-masago/ai-tutor-assistant",
+    "liveDemo": null,
+    "image": "/images/ai-tutor-assistant.png",
+    "imageAlt": "AI Tutor Assistant interface showing an AI-powered learning conversation and study tools"
+  },
+  {
     "title": "Personal Developer Portfolio",
     "description": "A responsive personal portfolio built to showcase software development projects, technical skills, education, and professional links. The site uses a data-driven structure so content can be updated through JSON files without editing component code.",
     "tech": [

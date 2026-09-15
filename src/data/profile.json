@@ -3,8 +3,8 @@
   "role": "Software Developer",
   "hero": {
     "eyebrow": "Hello, I'm Ryo!",
-    "headline": "I build thoughtful, interactive web applications.",
-    "description": "I'm a Software Developer focused on creating clean, user-friendly web experiences with Ruby on Rails, JavaScript, SQL, HTML, CSS, and Stimulus.",
+    "headline": "Building. Learning. Improving.",
+    "description": "I'm a Full-Stack Developer interested in creating useful and engaging web applications. I'm currently continuing to develop my skills through personal projects and my studies in software development.",
     "primaryCta": {
       "label": "View my work",
       "href": "#projects"
@@ -17,8 +17,9 @@
   "about": {
     "heading": "About Me",
     "paragraphs": [
-      "I'm a Software Developer who enjoys turning ideas into practical, polished web applications. I particularly enjoy building products that combine thoughtful user experience with solid full-stack development.",
-      "I graduated from Le Wagon's Web Development bootcamp and am continuing my education through Boston University's Master's degree in Software Development. I'm currently expanding my software engineering skills while building projects that allow me to apply what I learn in practice."
+      "I'm a Software Developer who took a slightly unconventional path into tech.",
+      "Before learning how to code, I worked in international business environments, where I learned how to communicate across teams, understand people's needs, and solve practical problems. Eventually, I developed a fascination in how technology could be used to actually build these solutions.",
+      "That curiosity led me to Le Wagon, where I trained in full-stack web development. After completing the bootcamp, I'm contuining to deepen my technical skills through Boston University's M.S. in Software Development while building projects of my own."
     ]
   }
 }
